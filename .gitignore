@@ -1,0 +1,28 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
+
+# Godot
+.import/
+export.cfg
+export_presets.cfg
+
+# Android/iOS
+.gradle/
+local.properties
+*.apk
+DerivedData/
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata/
+
+# General
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
